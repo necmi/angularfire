@@ -75,7 +75,7 @@
     "http-server": "^0.8.5",
     "jasmine": "^2.4.1",
     "jasmine-core": "^2.4.1",
-    "json": "^9.0.3",
+    "json": "^10.0.0",
     "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
